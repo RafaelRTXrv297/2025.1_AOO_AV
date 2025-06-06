@@ -19,7 +19,7 @@ _Exemplo de resposta: Cada membro ficou responsável por um tipo de diagrama, co
   
 - Nome 2: Stanly almeida do carmo, Minha maior contribuição foi em relação ao diagrama de atividade o qual fiquei responsavel, feito por meio do diagrama de caso de uso e os requisitos, Além disso, desenvolvi um modelo preliminar de caso de uso que serviu como base para a versão final validada pelo grupo e acompanhamento no desenvolvimento dos diagramas de classe e estado.
   
-- Nome 3: 
+- Nome 3: Rafael Chaves de Góis, contribui, principalmente, com o desenvolvimento do diagrama de classe. Para desenvolvê-lo conferi os outros diagramas desenvolvidos por meus colegas, recebi ajuda deles também e, ainda, realizei consultas na Web. Já quanto estava quase concluído, tomei um livro de UML na Biblioteca para conferir os detalhes do meu desenvolvimento.
 - Nome 4: 
 
 
